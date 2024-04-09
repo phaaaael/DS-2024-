@@ -1,0 +1,12 @@
+numero = int(input('digite um número para a tabuada: '))
+
+print(" 1 x ", numero, " = ", (1 * numero), "\n")
+print(" 2 x ", numero, " = ", (2 * numero), "\n")
+print(" 3 x ", numero, " = ", (3 * numero), "\n")
+print(" 4 x ", numero, " = ", (4 * numero), "\n")
+print(" 5 x ", numero, " = ", (5 * numero), "\n")
+print(" 6 x ", numero, " = ", (6 * numero), "\n")
+print(" 7 x ", numero, " = ", (7 * numero), "\n")
+print(" 8 x ", numero, " = ", (8 * numero), "\n")
+print(" 9 x ", numero, " = ", (9 * numero), "\n")
+print("10 x ", numero, " = ", (10 * numero), "\n")
